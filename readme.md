@@ -25,13 +25,13 @@ execute scripts from
 [create_schema_tables_initial_data.sql](resources%2Fdatabase%2Fcreate_schema_tables_initial_data.sql)
 
 ## Project package requirements
-to install requirements need for project run  
+to install requirements need for project run below command from project directory.
 ```
 pip install -r requirements.txt
 ```
 
 ## start server 
-to start the application use
+to start the application use below command from project directory.
 
 ```
 flask run --port 12000
